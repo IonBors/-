@@ -1,12 +1,16 @@
-
-<style type="text/css"> body {XXX20%XXXX} </style>      стиль 
+   <style type="text/css"> body{XXX20%XXXX} </style>      стиль 
    <a href="irule.html"> слово линка</a>                   линк     
    <img src="sweetphoto.gif">                              фото
    <q> кавычки </q>
    <blockquote> обзац </blockquote> сновой строки<br>              (использовать к цытатам)
    <em>другим шрифтом часть текста</em>
    для новой строки <br>
-   <li>элемент списка </li> нумировать список  <ol>xxxx</ol>
-                           не нумировать список  <ul>xxxx</ul>
+                 нумировать список  <ol>xxxx</ol>        <li>элемент списка </li> 
+                 не нумировать список  <ul>xxxx</ul>     <li>элемент списка </li> 
 
    <dl>отделить выбронный текст </dl>   <dd>без абзаца</dd>   <dt>с обзацам</dt>
+
+   <code>Элемент code для отображения кода из компьютерной программы
+   
+   <strong>выделить текст<strong>
+
